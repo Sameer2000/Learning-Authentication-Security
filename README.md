@@ -1,3 +1,5 @@
 # Learning-Authentication-Security
 
-Website made while learning authentication and security using Node.Js
+![](public/images/screenshot.jpg)
+
+Website made while learning authentication and security. Impleted different levels of security.
